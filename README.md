@@ -23,4 +23,3 @@
 
 <br/>
 
-![Lukas Ianni GitHub stats](https://github-readme-stats.vercel.app/api?username=LukIanni&show_icons=true&theme=dracula)
